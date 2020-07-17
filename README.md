@@ -1,2 +1,3 @@
-# jxck
-jxck
+# Jxck
+
+Web Developer in Japan
